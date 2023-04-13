@@ -2,6 +2,7 @@
 
 ABSTRACT
 
+INFO :
 
 Plant diseases and pests are important factors determining the yield and quality of plants. Plant diseases and pests identifcation can be carried out by means of digital image processing. 
 
